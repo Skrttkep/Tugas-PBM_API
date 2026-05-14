@@ -1,5 +1,3 @@
-# eco_trade
-
 # Eco Trade - Tugas Praktikum PBM
 
 Eco Trade adalah aplikasi mobile berbasis Flutter untuk manajemen produk sederhana yang terintegrasi dengan API. Aplikasi ini memiliki fitur login, menampilkan daftar produk, menambahkan produk baru, menghapus produk, logout, serta submit tugas menggunakan link GitHub.
@@ -32,27 +30,27 @@ Berikut adalah tampilan UI dari aplikasi Eco Trade:
 
 ### 2. Tampilan Utama
 
-| Home / Dashboard | Data Produk Kosong |
+| Home / Dashboard |
 | :---: | :---: |
-| <img src="homepage.png" width="250"> | <img src="screenshots/empty_product_screen.png" width="250"> |
+| <img src="homepage.png" width="250"> | <img src="empty_product_screen.png" width="250"> |
 
 ### 3. Fitur Produk
 
-| Tambah Produk | Submit Produk |
+| Tambah Produk |
 | :---: | :---: |
-| <img src="tambah produk.png" width="250"> | <img src="screenshots/submit_product_screen.png" width="250"> |
+| <img src="tambah produk.png" width="250"> | <img src="submit.png" width="250"> |
 
 ### 4. Pop-up Konfirmasi
 
-| Konfirmasi Hapus Produk | Konfirmasi Logout |
+| Konfirmasi Hapus Produk |
 | :---: | :---: |
-| <img src="Hapus.png" width="250"> | <img src="screenshots/logout_confirm.png" width="250"> |
+| <img src="Hapus.png" width="250"> | <img src="logout_confirm.png" width="250"> |
 
 ### 5. Submit Tugas
 
-| Submit Berhasil |
-| :---: | :---: | :---: |
-| <img src="submit.png" width="250"> | <img src="screenshots/delete_success.png" width="250"> | <img src="screenshots/submit_success.png" width="250"> |
+| Submit Tugas |
+| :---: |
+| <img src="submit.png" width="250"> |
 
 ## 🔗 API yang Digunakan
 
@@ -60,4 +58,3 @@ Aplikasi ini menggunakan API dari:
 
 ```txt
 https://task.itprojects.web.id/api
-

@@ -31,19 +31,19 @@ Berikut adalah tampilan UI dari aplikasi Eco Trade:
 ### 2. Tampilan Utama
 
 | Home / Dashboard |
-| :---: | :---: |
+| :---: |
 | <img src="homepage.png" width="250"> | <img src="empty_product_screen.png" width="250"> |
 
 ### 3. Fitur Produk
 
 | Tambah Produk |
-| :---: | :---: |
+| :---: |
 | <img src="tambah produk.png" width="250"> | <img src="submit.png" width="250"> |
 
 ### 4. Pop-up Konfirmasi
 
 | Konfirmasi Hapus Produk |
-| :---: | :---: |
+| :---: |
 | <img src="Hapus.png" width="250"> | <img src="logout_confirm.png" width="250"> |
 
 ### 5. Submit Tugas

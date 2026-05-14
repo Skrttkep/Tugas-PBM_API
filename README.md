@@ -26,3 +26,37 @@ Aplikasi ini menggunakan API dari:
 
 ```txt
 https://task.itprojects.web.id/api
+
+## 📸 Screenshot Aplikasi
+
+Berikut adalah tampilan UI dari aplikasi Eco Trade:
+
+### 1. Autentikasi
+
+| Login Screen |
+| :---: |
+| <img src="screenshots/login_screen.png" width="250"> |
+
+### 2. Tampilan Utama
+
+| Home / Dashboard | Data Produk Kosong |
+| :---: | :---: |
+| <img src="screenshots/home_screen.png" width="250"> | <img src="screenshots/empty_product_screen.png" width="250"> |
+
+### 3. Fitur Produk
+
+| Tambah Produk | Submit Produk |
+| :---: | :---: |
+| <img src="screenshots/add_product_screen.png" width="250"> | <img src="screenshots/submit_product_screen.png" width="250"> |
+
+### 4. Pop-up Konfirmasi
+
+| Konfirmasi Hapus Produk | Konfirmasi Logout |
+| :---: | :---: |
+| <img src="screenshots/delete_confirm.png" width="250"> | <img src="screenshots/logout_confirm.png" width="250"> |
+
+### 5. Notifikasi
+
+| Produk Berhasil Ditambah | Produk Berhasil Dihapus | Submit Berhasil |
+| :---: | :---: | :---: |
+| <img src="screenshots/add_success.png" width="250"> | <img src="screenshots/delete_success.png" width="250"> | <img src="screenshots/submit_success.png" width="250"> |

@@ -1,17 +1,28 @@
-# tugas_pbm
+# eco_trade
 
-A new Flutter project.
+# Eco Trade - Tugas Praktikum PBM
 
-## Getting Started
+Eco Trade adalah aplikasi mobile berbasis Flutter untuk manajemen produk sederhana yang terintegrasi dengan API. Aplikasi ini memiliki fitur login, menampilkan daftar produk, menambahkan produk baru, menghapus produk, logout, serta submit tugas menggunakan link GitHub.
 
-This project is a starting point for a Flutter application.
+## 📱 Tentang Aplikasi
 
-A few resources to get you started if this is your first Flutter project:
+Aplikasi Eco Trade dibuat sebagai tugas praktikum Pengembangan Berbasis Mobile (PBM).  
+Konsep aplikasi ini mengangkat tema pengelolaan produk ramah lingkungan dengan tampilan sederhana, rapi, dan mudah digunakan.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## ✨ Fitur Aplikasi
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Login menggunakan akun dari API
+- Menampilkan daftar produk dari API
+- Menambahkan produk baru
+- Menghapus produk
+- Refresh daftar produk
+- Submit tugas menggunakan GitHub URL
+- Logout dari aplikasi
+- Tampilan UI sederhana bertema hijau / eco-friendly
+
+## 🔗 API yang Digunakan
+
+Aplikasi ini menggunakan API dari:
+
+```txt
+https://task.itprojects.web.id/api
